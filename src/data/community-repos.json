@@ -255,6 +255,12 @@
 		"authors": [{ "name": "maybork", "url": "https://github.com/maybork" }]
 	},
 	{
+		"name": "Krita",
+		"url": "https://github.com/rosedelightful/krita",
+		"tags": ["app", "community"],
+		"authors": [{ "name": "Rose Delightful", "url": "https://github.com/rosedelightful" }]
+	},
+	{
 		"name": "Lapce",
 		"url": "https://github.com/syntacti/rose-pine-lapce",
 		"tags": ["app", "editor"],
